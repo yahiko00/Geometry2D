@@ -1,9 +1,13 @@
 {
-  "name": "ts-module",
-  "version": "0.1.0",
-  "description": "Module boiler plate using TypeScript, Gulp, Uglify and Tape",
-  "main": "module.js",
-  "scripts": {
+  "name": "geometry2d",
+  "version": "0.1.7",
+  "description": "A **TypeScript** / **JavaScript** library for 2D geometry.",
+  "main": "geometry2d.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yahiko00/Geometry2D.git"
+  },
+    "scripts": {
     "build": "gulp minify",
     "clean": "gulp clean",
     "clean:all": "gulp clean:all",
