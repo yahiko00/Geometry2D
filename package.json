@@ -1,13 +1,13 @@
 {
   "name": "geometry2d",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "A **TypeScript** / **JavaScript** library for 2D geometry.",
   "main": "geometry2d.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/yahiko00/Geometry2D.git"
   },
-    "scripts": {
+  "scripts": {
     "build": "gulp minify",
     "clean": "gulp clean",
     "clean:all": "gulp clean:all",
