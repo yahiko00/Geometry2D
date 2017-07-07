@@ -1,0 +1,6 @@
+*.map
+!module.js.map
+*.log
+debug/
+dist/
+node_modules/
